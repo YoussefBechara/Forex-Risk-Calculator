@@ -1,5 +1,3 @@
-markdown
-
 # Forex Risk Calculator
 
 ## Overview
@@ -33,7 +31,7 @@ A Python-based Forex Risk Calculator designed to help traders calculate position
 
       pip install -r requirements.txt
 
-##Usage
+## Usage
 
 Run the main script:
 
@@ -47,7 +45,7 @@ The calculator will prompt you for:
     Entry price
     Currency pair
 
-##Risk Management Guidelines
+## Risk Management Guidelines
 
     The calculator follows these risk management principles:
 
@@ -56,7 +54,7 @@ The calculator will prompt you for:
     Calculate position size before entering trades
     Consider spread costs in calculations
 
-##Example Calculation
+## Example Calculation
       
       Account Balance: $10,000
       Risk Percentage: 1%
@@ -64,19 +62,19 @@ The calculator will prompt you for:
       Risk Amount: $100 (1% of $10,000)
       Position Size: Calculated based on risk amount and stop loss
 
-File Structure
+### File Structure
 
     main.py: Core calculator functionality
     requirements.txt: Required Python packages
 
-Contributions are welcome! To contribute:
+### Contributions are welcome! To contribute:
 
     Fork the repository
     Create a feature branch
     Make your changes
     Submit a pull request
 
-Best Practices When using this calculator:
+### Best Practices When using this calculator:
 
     Always verify calculations
     Consider spread costs
@@ -84,7 +82,7 @@ Best Practices When using this calculator:
     Never exceed recommended risk percentages
     Back-test your strategy
 
-Disclaimer
+### Disclaimer
 
 This tool is for educational purposes only. Forex trading carries significant risks, and you should never trade with money you cannot afford to lose. Always verify calculations and consult with a financial advisor before making trading decisions.
 Future Enhancements
@@ -96,4 +94,4 @@ Future Enhancements
     Market volatility considerations
     Historical data analysis
 
-Developed by Youssef Bechara
+#Developed by Youssef Bechara
