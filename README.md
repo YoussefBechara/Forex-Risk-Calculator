@@ -94,4 +94,4 @@ Future Enhancements
     Market volatility considerations
     Historical data analysis
 
-#Developed by Youssef Bechara
+# Developed by Youssef Bechara
